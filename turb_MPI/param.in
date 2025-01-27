@@ -1,9 +1,0 @@
-1e-3	d_pl
-920.	rho_pl1
-1.	sd
-0.	lat
-100.	timestep
-100.	tlim
-1.	i
-10000.	numpar
-1.	ts_print
